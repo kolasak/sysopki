@@ -44,4 +44,4 @@ Jeśli macie pytania to piszczie albo zakładajcie issue lub pull requesty
 
 Jak to skończe to i tak pewnie wyląduje na WIETowym gitlabie
 
-**Krzysztof Kolasa** - [kolasak](kyskolasa2@gmail.com)
+**Krzysztof Kolasa** - [kyskolasa2@gmail.com](mailto:kyskolasa2@gmail.com)
